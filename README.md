@@ -5,22 +5,23 @@
 
 💻 **Skills:** <br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![NodeJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
-![NestJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=Node.js)
-![Angular+](https://img.shields.io/badge/Angular+-000000?logo=angular)
-![Python](https://img.shields.io/badge/Python-000000?logo=python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-000000?logo=elastic)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-ffffff?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=flat&logo=typescript)
+![NestJS](https://img.shields.io/badge/-NestJS-ffffff?style=flat&logo=nestjs&labelColor=ffffff&logoColor=red)
+![NestJS](https://img.shields.io/badge/-NodeJS-ffffff?style=flat&logo=Node.js)
+![Angular+](https://img.shields.io/badge/-Angular+-ffffff?style=flat&logo=angular&labelColor=ffffff&logoColor=red)
+![Python](https://img.shields.io/badge/Python-ffffff?logo=python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb&labelColor=ffffff)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-ffffff?logo=elastic&logoColor=blue)
+![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql&labelColor=ffffff)
 
 <br>
 
 🌍 **Deployment platforms:**<br>
 
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&labelColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat&logo=docker&labelColor=ffffff)
 
 <br>
 
